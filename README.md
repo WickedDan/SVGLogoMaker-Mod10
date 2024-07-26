@@ -8,7 +8,7 @@ Download this repo on GitHub: https://github.com/WickedDan/SVGLogoMaker-Mod10.gi
 Run node index.js in your terminal.
 ## Questions 
 If you have questions check out my github WickedDan or you can email me at daniel@wickedflow.com;
-## Screenshots
+## Demo Video
 <video controls src="assets/2024-07-25 16-57-05.mp4" title="Demo-Vid"></video>
 
 ## Deployment Link
